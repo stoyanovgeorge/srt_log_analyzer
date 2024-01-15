@@ -46,7 +46,7 @@ pytz==2020.1
 pyzmq==19.0.2
 s3transfer==0.3.3
 Send2Trash==1.5.0
-streamlit==1.11.1
+streamlit==1.30.0
 terminado==0.8.3
 testpath==0.4.4
 toml==0.10.1
